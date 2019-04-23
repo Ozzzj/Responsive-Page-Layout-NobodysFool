@@ -73,12 +73,12 @@ a:hover {
     height: 32px;
     width: 32px;
     background-repeat: no-repeat;
-    background-image: url(img/icon-linkedin@1X.png), url(img/Ellipse.png);
+    background-image: url(img/icon-linkedin1X.png), url(img/Ellipse.png);
     background-position: center;
 }
 
 .social-btn-1:hover {
-    background-image: url(img/icon-linkedin@1X.png), url(img/Ellipse@1X.png);
+    background-image: url(img/icon-linkedin1X.png), url(img/Ellipse1X.png);
 }
 
 .social-btn-2 {
@@ -86,12 +86,12 @@ a:hover {
     height: 32px;
     width: 32px;
     background-repeat: no-repeat;
-    background-image: url(img/icon-twitter@1X.png), url(img/Ellipse.png);
+    background-image: url(img/icon-twitter1X.png), url(img/Ellipse.png);
     background-position: center;
 }
 
 .social-btn-2:hover {
-    background-image: url(img/icon-twitter@1X.png), url('img/Ellipse@1X(1).png');
+    background-image: url(img/icon-twitter1X.png), url('img/Ellipse2X.png');
 }
 
 .social-btn-3 {
@@ -99,12 +99,12 @@ a:hover {
     height: 32px;
     width: 32px;
     background-repeat: no-repeat;
-    background-image: url(img/icon-pinterest@1X.png), url(img/Ellipse.png);
+    background-image: url(img/icon-pinterest1X.png), url(img/Ellipse.png);
     background-position: center;
 }
 
 .social-btn-3:hover {
-    background-image: url(img/icon-pinterest@1X.png), url('img/Ellipse@1X(2).png');
+    background-image: url(img/icon-pinterest1X.png), url('img/Ellipse3X.png');
 }
 
 .social-btn-4 {
@@ -112,12 +112,12 @@ a:hover {
     height: 32px;
     width: 32px;
     background-repeat: no-repeat;
-    background-image: url(img/icon-google-plus@1X.png), url(img/Ellipse.png);
+    background-image: url(img/icon-google-plus1X.png), url(img/Ellipse.png);
     background-position: center;
 }
 
 .social-btn-4:hover {
-    background-image: url(img/icon-google-plus@1X.png), url('img/Ellipse@1X(3).png');
+    background-image: url(img/icon-google-plus1X.png), url('img/Ellipse4X.png');
 }
 
 .social-btn-5 {
@@ -125,12 +125,12 @@ a:hover {
     height: 32px;
     width: 32px;
     background-repeat: no-repeat;
-    background-image: url(img/icon-rss@1X.png), url(img/Ellipse.png);
+    background-image: url(img/icon-rss1X.png), url(img/Ellipse.png);
     background-position: center;
 }
 
 .social-btn-5:hover {
-    background-image: url(img/icon-rss@1X.png), url('img/Ellipse@1X(4).png');
+    background-image: url(img/icon-rss1X.png), url('img/Ellipse5X.png');
 }
 
 /*KONIEC STOPKI GÓRNEJ*/
@@ -322,7 +322,7 @@ main.content {
 .devices-box {
     display: flex;
     margin-right: 15px;
-    background-image: url('img/Composed-layer@1X(1).png');
+    background-image: url('img/Composed-layer1X.png');
     background-repeat: no-repeat;
     background-size: contain;
     background-position: center;
