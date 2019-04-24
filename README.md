@@ -3,4 +3,4 @@ This is my first responsive page layout. I used PSD template from OS Templates, 
 
 https://ozzzj.github.io/Responsive-Page-Layout-NobodysFool/
 
-![How page looks on pc](relative/preview.png?raw=true "Title")
+![How page looks on pc](preview.png?raw=true "Title")
